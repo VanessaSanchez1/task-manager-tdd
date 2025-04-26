@@ -21,7 +21,7 @@ Una API RESTful construida con Node.js, Express y Sequelize utilizando el enfoqu
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/task-manager-tdd.git
+git clone https://github.com/VanessaSanchez1/task-manager-tdd.git
 cd task-manager-tdd
 npm install
 
